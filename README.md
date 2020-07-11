@@ -79,7 +79,7 @@
     <td>
       <a href="">
         <img src="" width="256" /><br />
-        Camille Utterback, interactive gestural art
+        Camille Utterback, interactive gestural painting
       </a>
     </td>
   </tr>
