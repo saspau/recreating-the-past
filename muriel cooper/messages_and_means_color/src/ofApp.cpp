@@ -157,14 +157,16 @@ void ofApp::drawMeansMessages(ofTrueTypeFont font){
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
 	// TODO: fix screen capture. currently isn't capturing all colors/layers properly.
-	saveScreen = true;
+	if (key == 's') {
+		saveScreen = true;
 
-	if (saveScreen) {
-		ofImage image;
-		image.grabScreen(0, 0, ofGetWidth(), ofGetHeight());
+		if (saveScreen) {
+			ofImage image;
+			image.grabScreen(0, 0, ofGetWidth(), ofGetHeight());
 
-		image.save(appName + "_" + ofGetTimestampString() + ".png");
-		saveScreen = false;
+			image.save(appName + "_" + ofGetTimestampString() + ".png");
+			saveScreen = false;
+		}
 	}
 }
 

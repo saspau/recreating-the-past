@@ -130,14 +130,16 @@ void ofApp::setColor(ofColor color, bool& isRed) {
 
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
-	saveScreen = true;
-	
-	if (saveScreen) {
-		ofImage image;
-		image.grabScreen(0, 0, ofGetWidth(), ofGetHeight());
+	if (key == 's') {
+		saveScreen = true;
 
-		image.save(appName + "_" + ofGetTimestampString() + ".png");
-		saveScreen = false;
+		if (saveScreen) {
+			ofImage image;
+			image.grabScreen(0, 0, ofGetWidth(), ofGetHeight());
+
+			image.save(appName + "_" + ofGetTimestampString() + ".png");
+			saveScreen = false;
+		}
 	}
 }
 

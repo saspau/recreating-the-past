@@ -106,14 +106,16 @@ void ofApp::draw() {
 
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key) {
-	saveScreen = true;
+	if (key == 's') {
+		saveScreen = true;
 
-	if (saveScreen) {
-		ofImage image;
-		image.grabScreen(0, 0, ofGetWidth(), ofGetHeight());
+		if (saveScreen) {
+			ofImage image;
+			image.grabScreen(0, 0, ofGetWidth(), ofGetHeight());
 
-		image.save(appName + "_" + ofGetTimestampString() + ".png");
-		saveScreen = false;
+			image.save(appName + "_" + ofGetTimestampString() + ".png");
+			saveScreen = false;
+		}
 	}
 }
 
