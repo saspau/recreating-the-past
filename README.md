@@ -4,14 +4,14 @@
 <table cellpadding="0" cellspacing="20" border="0">
   <tr>
     <td>
-      <a href="chaos%20&%20order/vera%20molnar/red_orange_squares/">
-        <img src="chaos%20&%20order/vera%20molnar/red_orange_squares/media/final_captures/animation.gif" width="256" /><br />
+      <a href="chaos_and_order/vera_molnar/red_orange_squares/">
+        <img src="chaos_and_order/vera_molnar/red_orange_squares/media/final_captures/animation.gif" width="256" /><br />
         Vera Molnár, Title Unknown
       </a>
     </td>
     <td>
-      <a href="chaos%20&%20order/vera%20molnar/structure_de_quadrilateres/">
-        <img src="chaos%20&%20order/vera%20molnar/structure_de_quadrilateres/media/final_captures/animation.gif" width="256" /><br />
+      <a href="chaos_and_order/vera_molnar/structure_de_quadrilateres/">
+        <img src="chaos_and_order/vera_molnar/structure_de_quadrilateres/media/final_captures/animation.gif" width="256" /><br />
         Vera Molnár, <i>Structure de quadrilatères</i>
       </a>
     </td>
@@ -30,28 +30,28 @@
       </a>
     </td>
     <td>
-      <a href="computational%20typography/muriel%20cooper/messages_and_means_color">
-        <img src="computational%20typography/muriel%20cooper/messages_and_means_color/media/final.png" width="256" /><br />
+      <a href="computational_typography/muriel_cooper/messages_and_means_color">
+        <img src="computational_typography/muriel_cooper/messages_and_means_color/media/final.png" width="256" /><br />
         Muriel Cooper, <i>Messages and Means</i> course poster
       </a>
     </td>
     <td>
-      <a href="computational%20typography/aaron%20marcus/the_city_sleeps/">
-        <img src="computational%20typography/aaron%20marcus/the_city_sleeps/media/final.png" width="256" /><br />
+      <a href="computational_typography/aaron_marcus/the_city_sleeps/">
+        <img src="computational_typography/aaron_marcus/the_city_sleeps/media/final.png" width="256" /><br />
         Aaron Marcus, <i>The City Sleeps, but Someone is Watching</i>
       </a>
     </td>
   </tr>
     <tr>
     <td>
-      <a href="pattern/bridget%20riley/cataract_3/">
-        <img src="pattern/bridget%20riley/cataract_3/media/animation.gif" width="256" /><br />
+      <a href="pattern/bridget_riley/cataract_3/">
+        <img src="pattern/bridget_riley/cataract_3/media/animation.gif" width="256" /><br />
         Bridget Riley, <i>Cataract 3</i>
       </a>
     </td>
     <td>
-      <a href="pattern/anni%20albers/gr_ii/">
-        <img src="pattern/anni%20albers/gr_ii/media/final.png" width="256" /><br />
+      <a href="pattern/anni_albers/gr_ii/">
+        <img src="pattern/anni_albers/gr_ii/media/final.png" width="256" /><br />
         Anni Albers, <i>GR II</i>
       </a>
     </td>
